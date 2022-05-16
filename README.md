@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subrat-Kumar-Mallick
 - 👀 I’m interested in ...# big data  # Data engineering # Data_science # Data Analytics
 - 🌱 I’m currently learning   
--    # Programming( Python), 
+-    ### Programming( Python), 
 -    # SQL (my_sql, sql_server, postgres_sql, Microsoft_sql_server, Oracle_sql_server )
 -    # BIG_DATA - TECHSTACK (Apache Spark, Apache Kafka, Hadoop, Hive, snowflake, Data lake, Data warehouse,)
 -    # ETL Process - Batch Pipeline, Stream Data pipeline
