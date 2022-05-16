@@ -1,4 +1,4 @@
-- 👋# Hi, I’m @Subrat-Kumar-Mallick
+#- 👋  Hi, I’m @Subrat-Kumar-Mallick
 - #👀 I’m interested in ...# big data  # Data engineering # Data_science # Data Analytics
 - #🌱 I’m currently learning   
 -    ## Programming( Python), 
