@@ -1,4 +1,4 @@
-(![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/97077763/168822853-7faa842a-6ffc-47fc-ab1e-c0d340e3d13d.jpg)
+(!![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/97077763/168833172-cdae585c-587e-43f3-a3fb-6347c1ba24dd.jpg))
 
 
 # Hey There 👋
