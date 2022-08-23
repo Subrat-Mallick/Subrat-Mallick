@@ -1,4 +1,4 @@
-![Black Modern Personal LinkedIn Banner (1)](![image](https://user-images.githubusercontent.com/97077763/186255691-f41c39ad-3713-4fb0-9403-9afc42a44a09.png))
+![Black Modern Personal LinkedIn Banner (1)](![image](https://www.canva.com/design/DAFA9QXoQbo/pflDiHyrdVmt0A4hKkfxdA/edit?utm_content=DAFA9QXoQbo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
