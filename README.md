@@ -22,7 +22,6 @@
 #### ✔️ AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, App flow) 
 #### ✔️ Dashboarding Tools (Grafana, Kibana, QuickSight, DataDog, Data Studio)
 #### ✔️ Monitoring Tools (Airflow, Azkaban) 
-#### ✔️ Web Development (HTML, CSS, Scala Play, Django, Rest API, JavaScript, Ajax, JQuery)
 #### ✔️ Good command of programming languages (Python, Java, Scala, Shell Scripting) 
 #### ✔️Strong Data Structures & Algorithm fundamentals.
 
