@@ -1,8 +1,8 @@
 # Subrat Kumar Mallick - Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinurl/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yourgithubusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/subrat-kumar-mallick/)/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/subrat_765)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Subrat-Mallick)
 
 Welcome to my GitHub profile! I'm Subrat Kumar Mallick, a passionate Data Engineer with expertise in building scalable data pipelines and handling large-scale data processing. I thrive in leveraging my technical skills to derive valuable insights from data and contribute to data-driven decision-making processes. 
 
