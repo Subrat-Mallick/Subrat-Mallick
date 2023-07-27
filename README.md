@@ -26,8 +26,3 @@ You can connect with me on the following social media platforms:
 - GitHub: [Your GitHub Profile](https://github.com/Subrat-Mallick)
 
 Feel free to reach out if you want to collaborate on exciting data engineering projects or have any questions related to data engineering!
-
----
-_Replace the URLs in the social media buttons and project descriptions with your actual information. Make sure to add your specific projects and customize the content to reflect your experience and personality._
-
-Remember to keep the README visually appealing and well-organized. With this Markdown template, you should have a strong foundation to create a great README for your GitHub page, showcasing your data engineering expertise and making it easy for others to connect with you on social media. Best of luck with your GitHub profile!
