@@ -18,21 +18,12 @@ Welcome to my GitHub profile! I'm Subrat Kumar Mallick, a passionate Data Engine
 - SQL and NoSQL databases
 - Cloud platforms (AWS, Azure, GCP)
 
-## Projects
-1. **Project Name 1**
-   - Description: Briefly describe the project.
-   - Technologies used: List the relevant technologies used in this project.
-
-2. **Project Name 2**
-   - Description: Briefly describe the project.
-   - Technologies used: List the relevant technologies used in this project.
-
 ## Contact Me
 You can connect with me on the following social media platforms:
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/yourlinkedinurl/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourtwitterhandle)
-- GitHub: [Your GitHub Profile](https://github.com/yourgithubusername)
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/subrat-kumar-mallick/)
+- Twitter: [Your Twitter Handle](https://twitter.com/subrat_765)
+- GitHub: [Your GitHub Profile](https://github.com/Subrat-Mallick)
 
 Feel free to reach out if you want to collaborate on exciting data engineering projects or have any questions related to data engineering!
 
