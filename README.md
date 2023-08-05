@@ -1,6 +1,6 @@
 # Subrat Kumar Mallick - Data Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/subrat-kumar-mallick/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/subrat-kumar-mallick/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/subrat_765)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Subrat-Mallick)
 
